@@ -16,18 +16,18 @@
     "babel-plugin-transform-class-properties": "6.24.1",
     "babel-preset-env": "1.7.0",
     "babel-preset-react": "6.24.1",
-    "css-loader": "0.28.11",
-    "live-server": "^1.2.0",
-    "node-sass": "4.9.0",
+    "css-loader": "^3.4.2",
+    "live-server": "^1.2.1",
+    "node-sass": "^4.13.1",
     "normalize.css": "8.0.0",
     "react": "16.4.1",
-    "react-dom": "16.4.1",
+    "react-dom": "^16.13.1",
     "react-modal": "3.4.5",
     "sass-loader": "7.0.3",
     "style-loader": "0.21.0",
     "validator": "10.3.0",
-    "webpack": "4.11.1",
-    "webpack-dev-server": "3.1.4"
+    "webpack": "^4.42.1",
+    "webpack-dev-server": "^3.10.3"
   },
   "devDependencies": {
     "webpack-cli": "^3.0.8"
